@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-coyote-ffm.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-i18n-ru.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/catalina-storeconfig.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/catalina-tribes.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/jasper.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-api.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/catalina.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/el-api.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/websocket-api.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-i18n-ja.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-i18n-de.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-dbcp.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-util-scan.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/annotations-api.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/servlet-api.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-i18n-es.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-i18n-fr.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-util.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/catalina-ssi.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-jdbc.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/ecj-4.20.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-i18n-ko.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/jaspic-api.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-i18n-cs.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/jsp-api.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-jni.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/jasper-el.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/catalina-ha.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/catalina-ant.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-websocket.jar"/>
+  <path value="E:/tomcat 9/apache-tomcat-9.0.93/lib/tomcat-coyote.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core"/>
+  <el>
+   <linked-el length="15" name="%0" offset="615" path="%1"/>
+   <linked-el length="10" name="%2" offset="416" path="%1"/>
+   <linked-el length="19" name="%3" offset="729" path="%1"/>
+   <linked-el length="18" name="%4" offset="845" path="%1"/>
+   <linked-el length="15" name="%4" offset="615" path="%1"/>
+   <linked-el length="19" name="%4" offset="729" path="%1"/>
+   <linked-el length="18" name="%5" offset="845" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="user.email" value="%0"/>
+  <alias path="/ch05_ex1_email/src/main/webapp/index.jsp" value="%1"/>
+  <alias path="message" value="%2"/>
+  <alias path="user.firstName" value="%3"/>
+  <alias path="user" value="%4"/>
+  <alias path="user.lastName" value="%5"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

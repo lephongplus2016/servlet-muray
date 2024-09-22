@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+E:\tai lieu\tai lieu qua drive\java\JAVA CORE - HOI DAN IT\Muray book - servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\216337590.index
+\ch05_ex1_email\src\main\java
