@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <modules>
+  <module moduleId="org.eclipse.jst.jee.server:ch05_ex22_email" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ch05_ex2_email" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ch04_ex1_survey1" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ch05_ex1_email" serverId="Tomcat v9.0 Server at localhost"/>
 </modules>
