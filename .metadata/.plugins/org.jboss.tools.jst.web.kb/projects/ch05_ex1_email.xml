@@ -40,22 +40,36 @@
  <validation>
   <core validator-id="jboss.cdi.core"/>
   <el>
-   <linked-el length="15" name="%0" offset="615" path="%1"/>
-   <linked-el length="10" name="%2" offset="416" path="%1"/>
-   <linked-el length="19" name="%3" offset="729" path="%1"/>
-   <linked-el length="18" name="%4" offset="845" path="%1"/>
-   <linked-el length="15" name="%4" offset="615" path="%1"/>
-   <linked-el length="19" name="%4" offset="729" path="%1"/>
-   <linked-el length="18" name="%5" offset="845" path="%1"/>
+   <linked-el length="15" name="%0" offset="766" path="%1"/>
+   <linked-el length="13" name="%0" offset="331" path="%2"/>
+   <linked-el length="13" name="%0" offset="331" path="%3"/>
+   <linked-el length="17" name="%4" offset="399" path="%3"/>
+   <linked-el length="17" name="%4" offset="399" path="%2"/>
+   <linked-el length="19" name="%4" offset="880" path="%1"/>
+   <linked-el length="10" name="%5" offset="416" path="%1"/>
+   <linked-el length="17" name="%6" offset="399" path="%3"/>
+   <linked-el length="15" name="%6" offset="766" path="%1"/>
+   <linked-el length="17" name="%6" offset="399" path="%2"/>
+   <linked-el length="19" name="%6" offset="880" path="%1"/>
+   <linked-el length="13" name="%6" offset="331" path="%2"/>
+   <linked-el length="16" name="%6" offset="470" path="%3"/>
+   <linked-el length="18" name="%6" offset="996" path="%1"/>
+   <linked-el length="16" name="%6" offset="470" path="%2"/>
+   <linked-el length="13" name="%6" offset="331" path="%3"/>
+   <linked-el length="16" name="%7" offset="470" path="%3"/>
+   <linked-el length="18" name="%7" offset="996" path="%1"/>
+   <linked-el length="16" name="%7" offset="470" path="%2"/>
   </el>
  </validation>
  <aliases>
   <alias path="user.email" value="%0"/>
   <alias path="/ch05_ex1_email/src/main/webapp/index.jsp" value="%1"/>
-  <alias path="message" value="%2"/>
-  <alias path="user.firstName" value="%3"/>
-  <alias path="user" value="%4"/>
-  <alias path="user.lastName" value="%5"/>
+  <alias path="user.firstName" value="%4"/>
+  <alias path="message" value="%5"/>
+  <alias path="user" value="%6"/>
+  <alias path="user.lastName" value="%7"/>
+  <alias path="/ch05_ex1_email/src/main/webapp/thank.jsp" value="%2"/>
+  <alias path="/ch05_ex1_email/src/main/webapp/thanks.jsp" value="%3"/>
  </aliases>
  <includes/>
  <uris/>
